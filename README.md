@@ -1,27 +1,42 @@
 # Ana Beatriz Cortez Peschiera
 
-**Data Analytics | Artificial Intelligence | Automation | Software Development**
+**Data Analytics | Artificial Intelligence | Automation | Mechatronics Engineering**
 
-Olá! Sou formada em **Análise e Desenvolvimento de Sistemas** e atualmente curso **Engenharia Mecatrônica**.
+<p align="center">
+  <img src="https://img.shields.io/badge/DATA-ANALYTICS-DB8BA5?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/ARTIFICIAL-INTELLIGENCE-831843?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AUTOMATION-CF7899?style=for-the-badge" />
+</p>
 
-Atuo como Analista de Dados Jr., com interesse em desenvolver soluções que conectem tecnologia, análise de dados e inteligência artificial.
+---
+
+## 🇧🇷 Sobre mim
+
+Sou formada em **Análise e Desenvolvimento de Sistemas** e atualmente curso **Engenharia Mecatrônica**.
+
+Atuo como Analista de Dados Jr., trabalhando com análise de dados, dashboards, automação de processos e soluções baseadas em inteligência artificial.
+
+Tenho interesse em desenvolver soluções que conectem software, dados e sistemas físicos.
 
 ### Áreas de interesse
 
-- Análise de dados e Business Intelligence
-- Inteligência artificial e Prompt Engineering
-- Desenvolvimento e configuração de agentes de IA
-- Automação de processos e integração de ferramentas
-- Desenvolvimento de sistemas e soluções digitais
+- Data Analytics e Business Intelligence
+- Inteligência Artificial e Prompt Engineering
+- Agentes de IA e integração de ferramentas
+- Automação de processos e workflows
+- Desenvolvimento de software
 - Sistemas embarcados e IoT
 
 ### Tecnologias e ferramentas
 
-- **Programação:** Python, JavaScript, HTML, CSS, C++
-- **Dados:** Power BI, Excel, Looker Studio
-- **Inteligência Artificial:** OpenClaw, Prompt Engineering
-- **Automação e infraestrutura:** Linux, Docker, N8N
-- **Hardware:** Arduino
+| Área | Tecnologias |
+|---|---|
+| Programação | Python, JavaScript, C++, HTML, CSS |
+| Dados e BI | Power BI, Looker Studio, Excel |
+| Inteligência Artificial | OpenClaw, Prompt Engineering |
+| Automação | n8n, Lovable |
+| Infraestrutura | Linux, Docker |
+| Sistemas embarcados | Arduino |
 
 ### Projetos em destaque
 
@@ -35,33 +50,38 @@ Atuo como Analista de Dados Jr., com interesse em desenvolver soluções que con
 
 ### Contato
 
-- **LinkedIn:** [Ana Beatriz Cortez Peschiera](https://www.linkedin.com/in/ana-beatriz-cortez-peschiera-5173022a4/)
-- **E-mail:** biacortezpeschiera@gmail.com
+- [LinkedIn](https://www.linkedin.com/in/ana-beatriz-cortez-peschiera-5173022a4/)
+- Email: biacortezpeschiera@gmail.com
 
 ---
 
-# English Version
+## 🇺🇸 About me
 
-Hi! I'm **Ana Beatriz Cortez Peschiera**, an Information Systems Development graduate currently pursuing a degree in Mechatronics Engineering.
+I hold a degree in **Systems Analysis and Development** and I am currently pursuing a degree in **Mechatronics Engineering**.
 
-I work as a Junior Data Analyst and have a strong interest in building solutions that combine technology, data analysis, and artificial intelligence.
+I work as a Junior Data Analyst, focusing on data analysis, dashboards, process automation, and artificial intelligence solutions.
+
+I am interested in building solutions that connect software, data, and physical systems.
 
 ### Areas of Interest
 
 - Data Analytics and Business Intelligence
 - Artificial Intelligence and Prompt Engineering
-- AI Agents Development and Configuration
-- Process Automation and Tool Integration
-- Software Development and Digital Solutions
+- AI Agents and Tool Integration
+- Process Automation and Workflows
+- Software Development
 - Embedded Systems and IoT
 
 ### Technologies & Tools
 
-- **Programming:** Python, JavaScript, HTML, CSS, C++
-- **Data:** Power BI, Excel, Looker Studio
-- **Artificial Intelligence:** OpenClaw, Prompt Engineering
-- **Automation & Infrastructure:** Linux, Docker, N8N
-- **Hardware:** Arduino
+| Area | Technologies |
+|---|---|
+| Programming | Python, JavaScript, C++, HTML, CSS |
+| Data & BI | Power BI, Looker Studio, Excel |
+| Artificial Intelligence | OpenClaw, Prompt Engineering |
+| Automation | n8n, Lovable |
+| Infrastructure | Linux, Docker |
+| Embedded Systems | Arduino |
 
 ### Featured Projects
 
@@ -75,20 +95,5 @@ I work as a Junior Data Analyst and have a strong interest in building solutions
 
 ### Contact
 
-- **LinkedIn:** [Ana Beatriz Cortez Peschiera](https://www.linkedin.com/in/ana-beatriz-cortez-peschiera-5173022a4/)
-- **Email:** biacortezpeschiera@gmail.com## Hi there 👋
-
-<!--
-**y0xyo/y0xyo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [LinkedIn](https://www.linkedin.com/in/ana-beatriz-cortez-peschiera-5173022a4/)
+- Email: biacortezpeschiera@gmail.com
